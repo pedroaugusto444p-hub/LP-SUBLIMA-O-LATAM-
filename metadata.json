@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sublimacao Lucrativa 2026",
+  "description": "Página de ventas para el Súper Pack de Sublimación Lucrativa de la Copa Mundial 2026 (Versión LATAM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
